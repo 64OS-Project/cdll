@@ -671,7 +671,6 @@ SOFTWARE.
 │                                                                             │
 │   • GitHub: https://github.com/64OS-Project/cdll                            │
 │   • Issues: https://github.com/64OS-Project/cdll/issues                     │
-│   • Documentation: https://64OS-Project.github.io/cdll                      │
 │                                                                             │
 │   For bug reports, please include:                                          │
 │     - Operating system and version                                          │
